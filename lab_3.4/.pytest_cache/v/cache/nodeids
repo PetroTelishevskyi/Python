@@ -1,0 +1,7 @@
+[
+  "flask_pytest.py::testRoot",
+  "flask_pytest.py::testNew",
+  "flask_pytest.py::testSearch",
+  "flask_pytest.py::testEdit",
+  "flask_pytest.py::testDelete"
+]
